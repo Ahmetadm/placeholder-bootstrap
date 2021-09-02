@@ -1,0 +1,47 @@
+.fsize-12 { font-size: 12px !important; }
+.fsize-14 { font-size: 14px !important; }
+
+.bg-purple { background-color: #a14cff !important; }
+
+.text-purple {
+	color: #a14cff !important;
+}
+
+.navbar-brand {
+	width: 150px;
+}
+
+body {
+	padding-top: 58px;
+}
+
+.content {
+	bottom: 30px;
+	left: 30px;
+	right: 30px;
+}
+
+.tag { border-radius: 80px;
+}
+
+.box-shadow {
+	box-shadow: 10px 10px 30px rgba(0,0,0, .08);
+}
+
+.main-title {
+	font-size: 40px;
+}
+
+.tags-box {
+	margin-bottom: -.5rem;
+}
+
+.tags-box .btn {
+	margin-bottom: .5rem;
+}
+
+@media (max-width: 425px) {
+	.main-title {
+		font-size: 30px;
+	}
+}
